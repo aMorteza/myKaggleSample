@@ -1,3 +1,3 @@
 The gitlab Link: https://gitlab.com/pse-testing-projects/myKaggleSample
 
-A statistical analysis on sample data ( provided by Kaggle.com
+Statistical Analysis including Histogram, Skewness, Scatter plot and Segment Bar plot for a sample data provided by Kaggle.com 
